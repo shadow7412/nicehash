@@ -1,0 +1,11 @@
+{
+  "domain": "nicehash",
+  "name": "NiceHash",
+  "documentation": "https://github.com/shadow7412/nicehash",
+  "issue_tracker": "https://github.com/shadow7412/nicehash/issues",
+  "dependencies": [],
+  "codeowners": "@shadow7412",
+  "requirements": [],
+  "version": "0.0.0",
+  "config_flow": true
+}
